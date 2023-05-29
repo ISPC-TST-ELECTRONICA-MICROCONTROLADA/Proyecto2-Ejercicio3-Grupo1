@@ -1,13 +1,13 @@
 <h4 align="center"> Trabajo Practico #8 -Alarma Básica de Casa- </h4>
 
- 	Objetivos:
+## 	Objetivos:
 
 Diseño e implementación del hardware de la alarma, que incluye teclado, llavero RX (receptor de señal), campana externa y sirena interior.
 Desarrollo del software que permite la interacción entre los componentes del sistema y proporciona funciones de seguridad.
 Integración de las características de zona y tamper en el sistema de alarma.
 Utilización de metodologías ágiles para el desarrollo y la implementación del proyecto, promoviendo la adaptabilidad y la eficiencia.
 
- 	Características del sistema de alarma:
+## 	Características del sistema de alarma:
 
 1.	Teclado: Un teclado es el punto principal de interacción entre el usuario y el sistema de alarma. Permitirá al usuario armar y desarmar el sistema, ingresar códigos de acceso, y proporcionará información sobre el estado actual del sistema.
 
@@ -22,7 +22,7 @@ Utilización de metodologías ágiles para el desarrollo y la implementación de
 6.	Tamper: El sistema de alarma debe incluir protección contra sabotajes (tamper). Esto significa que el sistema podrá detectar intentos de desactivación o manipulación del sistema y emitirá una alerta en consecuencia.
 
 
- 	Metodología de Desarrollo:
+## 	Metodología de Desarrollo:
 
 Para este trabajo práctico, utilizaremos una metodología ágil de desarrollo. Esto
 implica una serie de sprints, cada uno de los cuales produce una parte funcional del
