@@ -52,7 +52,7 @@ mejorar la eficiencia del proyecto.
 - ✔️**Ferreyra Gastón**.  [Ver Github](https://github.com/gastonloco).
 
 ### Docente
-<img src="Banners/src/hr.png" align="center">
+<img src="Banners/hr.png" align="center">
 
 - 👨‍🏫**Cristian Gonzalo Vera**. Prof. Instituto Superior Politécnico Córdoba y Desarrolador IoT. [Ver Github](https://github.com/Gona79).
 
