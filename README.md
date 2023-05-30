@@ -2,7 +2,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11029264&assignment_repo_type=AssignmentRepo)
 
 
-<img src="C_Ampliacion/src/banner_telecomv2.png" align="center" height="350">
+<img src="Banners/src/banner_telecomv2.png" align="center" height="350">
 
 <em> <h4 align="center"> 
 Trabajo Practico #8 -Alarma Básica de Casa- 
@@ -52,13 +52,13 @@ mejorar la eficiencia del proyecto.
 - ✔️**Ferreyra Gastón**.  [Ver Github](https://github.com/gastonloco).
 
 ### Docente
-<img src="C_Ampliacion/src/hr.png" align="center">
+<img src="Banners/src/hr.png" align="center">
 
 - 👨‍🏫**Cristian Gonzalo Vera**. Prof. Instituto Superior Politécnico Córdoba y Desarrolador IoT. [Ver Github](https://github.com/Gona79).
 
 
 ### Equipo SCRUM 2023
-<img src="C_Ampliacion/src/hr.png" align="center">
+<img src="Banners/src/hr.png" align="center">
 
 
 ### Product Owner:
@@ -79,4 +79,4 @@ mejorar la eficiencia del proyecto.
 - ✔️**Agustin Correa**
 - ✔️**Elizabeth Villablanca**
 - ✔️**Oscar Fernando Monforte**
-<img src="C_Ampliacion/src/hr.png" align="center">
+<img src="Banners/src/hr.png" align="center">
